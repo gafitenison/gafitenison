@@ -36,7 +36,7 @@ Gafar's journey is a testament to his dedication, passion, and adaptability. His
 ## ⚡ Fun Facts
 
 - I love exploring new technologies and applying them to solve real-world problems.
-- In my free time, I enjoy hiking, photography, playing chess, and videography.
+- In my free time, I enjoy learning code, photography, content creation, and videography.
 
 ## 🏆 Achievements and Contributions
 
