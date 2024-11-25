@@ -21,9 +21,10 @@ Gafar's journey is a testament to his dedication, passion, and adaptability. His
 
 ## 🌟 Projects
 
-- [Compeleted Websites](https://fronttobackdevelopment.com/projects/)): Responsive and interactive website I co-built at FrontToBack Development.
-- [Portfolio Site](https://fronttobackdevelopment.com/about-us/meet-gafar/): My personal portfolio website showcasing my projects and skills.
+- [Compeleted Websites](https://fronttobackdevelopment.com/projects/): Responsive and interactive website I co-built at FrontToBack Development.
+- [Portfolio Site](https://github.com/gafitenison/Portfolio/)): My personal portfolio website showcasing my projects and skills.
 - [E-commerce Platform](https://amiadeco.com): A fully functional e-commerce platform with a user-friendly interface and secure payment integration.
+- [EmployeeManagementSystem](https://github.com/gafitenison/EmployeeManagementSystem/): A Python-based employee, client, and order management system with SQLite, featuring automated reports and invoice generation.
 
 ## 📫 Contact Me
 
@@ -31,7 +32,7 @@ Gafar's journey is a testament to his dedication, passion, and adaptability. His
 - Business Email: gafar@fronttobackdevelopment.com
 - [LinkedIn](https://www.linkedin.com/in/gafaraleshe/)
 - [Twitter](https://twitter.com/gafaraleshe)
-- [Personal Website](lorem ipsum dolor)
+- [Personal Website]((https://github.com/gafitenison/Portfolio/)
 
 ## ⚡ Fun Facts
 
